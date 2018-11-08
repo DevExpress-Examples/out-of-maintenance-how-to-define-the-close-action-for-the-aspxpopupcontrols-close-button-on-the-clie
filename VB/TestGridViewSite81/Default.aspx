@@ -1,6 +1,6 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeFile="Default.aspx.vb" Inherits="_Default"  MasterPageFile="~/MasterPage.master"%>
 
-<%@ Register Assembly="DevExpress.Web.v8.1, Version=8.1.6.0, Culture=neutral, PublicKeyToken=9B171C9FD64DA1D1"
+<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
 	Namespace="DevExpress.Web.ASPxPopupControl" TagPrefix="dxpc" %>
 
 
